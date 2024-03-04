@@ -1,16 +1,39 @@
-### Hi there 👋
 
-<!--
-**RafaelFeSoares/RafaelFeSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ██████  ██████  ███████ ███████ ████████ ██ ███    ██  ██████  ███████     ██ 
+██       ██   ██ ██      ██         ██    ██ ████   ██ ██       ██          ██ 
+██   ███ ██████  █████   █████      ██    ██ ██ ██  ██ ██   ███ ███████     ██ 
+██    ██ ██   ██ ██      ██         ██    ██ ██  ██ ██ ██    ██      ██    
+ ██████  ██   ██ ███████ ███████    ██    ██ ██   ████  ██████  ███████     ██ 
+
+```
+
+# Hello! I am Rafael Felipe.
+
+---
+
+### 📖 About Me
+
+- Technology enthusiast and curious about learning new things
+
+- Currently making projects and getting an overall grasp of programming
+
+- Studying Front-End, Back-End, and general aspects of web development (more specifically, React, Next.js, )
+
+- In the future, I want to expand my knowledge in programming beyong web development, and learn more about other aspects of coding
+
+- I spend my free time developing projects, studying, playing games and listening to some music
+
+- I'm open to any collaborations you may suggest
+
+- You can contact me in the contacts tab below
+
+--- 
+
+### 🖥️ I Work With
+
+![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+
+
