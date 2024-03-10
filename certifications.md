@@ -1,10 +1,9 @@
-# **[<](https://github.com/RafaelFeSoares)** Certificados
+# **[<](https://github.com/RafaelFeSoares)** Certificates
 
 ## Alura
 
-Você pode achar minhas formações e cursos feitos no meu ***perfil***, clique ***[aqui](https://cursos.alura.com.br/user/rafaelfelipesoares192)*** para acessá-lo
+You can find my courses and certifications on my ***profile***, click ***[here](https://cursos.alura.com.br/user/rafaelfelipesoares192)*** to access it.
 
 ## Rocketseat
 
-Acesse meu perfil para ver minhas certificações, clique ***[aqui](https://app.rocketseat.com.br/me/rafael-felipe-soares-01363)*** para acessá-lo
-
+Visit my profile to view my certifications, click ***[here](https://app.rocketseat.com.br/me/rafael-felipe-soares-01363)*** to access it.
