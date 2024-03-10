@@ -10,7 +10,7 @@
 
 ```
 
-# Hello! I am **Rafael Felipe**.
+# Hello! I am ***Rafael Felipe***.
 
 
 ## 📖 About Me
@@ -29,10 +29,8 @@
 
 - I'm open to any collaborations you may suggest
 
---- 
 
 ## 🖥️ I Work With:
-
 <details>
   <summary><span style="font-size: 18px;">Languages</span></summary>
 
@@ -64,9 +62,7 @@
 
 </details>
 
---- 
-
-## Certifications and courses
+## 📖 Certifications and courses
 
 - **[Courses and Certificates](./github/certificados.md)**
 
@@ -80,7 +76,8 @@
 [![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/23568814/rafael-felipe)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-003366?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/rafaelfelipesoares-1453/)
 
-## Other sites I use:
+
+## 📱 Other sites I use:
 
 [![Rocketseat](https://img.shields.io/badge/Rocketseat-%237159c1?style=for-the-badge)](https://app.rocketseat.com.br/me/rafael-felipe-soares-01363)
 [![Alura](https://img.shields.io/badge/Alura-%23082951?style=for-the-badge)](https://cursos.alura.com.br/user/rafaelfelipesoares192)
@@ -95,9 +92,11 @@
 <p align="justify">
 <a href="https://github.com/RafaelFeSoares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelFeSoares&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFeSoares&layout=compact&langs_count=10&theme=github_dark"/>
+  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFeSoares&layout=compact&langs_count=10&theme=github_dark"/>
 </a>
 </p>
+
+---
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/225/country-4x3/br.png" alt="Brazil Flag">
