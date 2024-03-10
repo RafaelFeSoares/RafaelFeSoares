@@ -64,7 +64,7 @@
 
 ## 📖 Certifications and courses
 
-- **[Courses and Certificates](./github/certificados.md)**
+- **[Courses and Certificates](./certificados.md)**
 
 ## ☎️ You can find me at:
 
