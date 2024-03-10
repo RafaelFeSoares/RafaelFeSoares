@@ -13,7 +13,7 @@
 # Hello! I am ***Rafael Felipe***.
 
 
-## 📖 About Me
+## ✏️ About Me
 
 - Technology enthusiast and curious about learning new things
 
