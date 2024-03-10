@@ -19,7 +19,7 @@
 
 - Currently making projects and getting an overall grasp of programming
 
-- Studying Front-End, Back-End, and general aspects of web development (more specifically, React, Next.js, )
+- Studying Front-End, Back-End, and general aspects of web development (more specifically, React, Next.js)
 
 - In the future, I want to expand my knowledge in programming beyond web development, and learn more about other aspects of coding
 
